@@ -183,7 +183,7 @@ $ git clone https://huggingface.co/moka-ai/m3e-base
 
 ### 3. 设置配置项
 
-复制模型相关参数配置模板文件 [configs/model_config.py.example](configs/model_config.py.example) 存储至项目路径下 `./configs` 路径下，并重命名为 `model_config.py`。
+复制模型相关参数配置模板文件 [configs/model_config.py.example](configs/model_config.py) 存储至项目路径下 `./configs` 路径下，并重命名为 `model_config.py`。
 
 复制服务相关参数配置模板文件 [configs/server_config.py.example](configs/server_config.py.example) 存储至项目路径下 `./configs` 路径下，并重命名为 `server_config.py`。
 

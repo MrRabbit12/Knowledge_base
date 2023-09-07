@@ -18,18 +18,27 @@ if __name__ == "__main__":
         "Langchain-Chatchat WebUI",
         os.path.join("img", "chatchat_icon_blue_square_v2.png"),
         initial_sidebar_state="expanded",
+        menu_items={
+            'Get Help': 'https://github.com/chatchat-space/Langchain-Chatchat',
+            'Report a bug': "https://github.com/chatchat-space/Langchain-Chatchat/issues",
+            'About': f"""欢迎使用 Langchain-Chatchat WebUI {VERSION}！"""
+        }
     )
 
     if not chat_box.chat_inited:
         st.toast(
-            f"欢迎使用 [`北京交通大学MEM万事通`] ! \n\n"
+            f"欢迎使用 [`Langchain-Chatchat`](https://github.com/chatchat-space/Langchain-Chatchat) ! \n\n"
             f"当前使用模型`{LLM_MODEL}`, 您可以开始提问了."
         )
 
     pages = {
-        "知识库对话": {
+        "对话": {
             "icon": "chat",
             "func": dialogue_page,
+        },
+        "知识库管理": {
+            "icon": "hdd-stack",
+            "func": knowledge_base_page,
         },
     }
 
@@ -41,7 +50,6 @@ if __name__ == "__main__":
             ),
             use_column_width=True
         )
-
         options = list(pages)
         icons = [x["icon"] for x in pages.values()]
 

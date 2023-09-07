@@ -5,3 +5,5 @@ logs
 __pycache__/
 knowledge_base/
 configs/*.py
+/moka-ai_m3e-base/
+/knowledge_base/

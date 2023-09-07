@@ -51,14 +51,8 @@ def dialogue_page(api: ApiRequest):
             st.toast(text)
             # sac.alert(text, description="descp", type="success", closable=True, banner=True)
 
-        dialogue_mode = st.selectbox("请选择对话模式",
-                                     ["LLM 对话",
-                                      "知识库问答",
-                                      "搜索引擎问答",
-                                      ],
-                                     on_change=on_mode_change,
-                                     key="dialogue_mode",
-                                     )
+        dialogue_mode = "知识库问答"
+
         history_len = st.number_input("历史对话轮数：", 0, 10, 3)
 
         # todo: support history len
@@ -66,7 +60,8 @@ def dialogue_page(api: ApiRequest):
         def on_kb_change():
             st.toast(f"已加载知识库： {st.session_state.selected_kb}")
 
-        if dialogue_mode == "知识库问答":
+        # if dialogue_mode == "知识库问答":
+        if 8:
             with st.expander("知识库配置", True):
                 kb_list = api.list_knowledge_bases(no_remote_api=True)
                 selected_kb = st.selectbox(
@@ -103,7 +98,7 @@ def dialogue_page(api: ApiRequest):
             text = ""
             r = api.chat_chat(prompt, history)
             for t in r:
-                if error_msg := check_error_msg(t): # check whether error occured
+                if error_msg := check_error_msg(t):  # check whether error occured
                     st.error(error_msg)
                     break
                 text += t
@@ -117,7 +112,7 @@ def dialogue_page(api: ApiRequest):
             ])
             text = ""
             for d in api.knowledge_base_chat(prompt, selected_kb, kb_top_k, score_threshold, history):
-                if error_msg := check_error_msg(d): # check whether error occured
+                if error_msg := check_error_msg(d):  # check whether error occured
                     st.error(error_msg)
                 text += d["answer"]
                 chat_box.update_msg(text, 0)
