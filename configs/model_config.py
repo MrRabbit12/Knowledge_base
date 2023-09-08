@@ -7,6 +7,12 @@ logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 logging.basicConfig(format=LOG_FORMAT)
 
+VECTOR_SEARCH_TOP_K = 6
+LLM_HISTORY_LEN = 3
+
+IS_LOCAL_STORAGE = 1
+
+UPLOAD_LOCAL_PATH = "./uploads/"
 
 # 在以下字典中修改属性值，以指定本地embedding模型存储位置
 # 如将 "text2vec": "GanymedeNil/text2vec-large-chinese" 修改为 "text2vec": "User/Downloads/text2vec-large-chinese"
