@@ -167,7 +167,7 @@ log/*
 vector_store/*
 content/*
 api_content/*
-knowledge_base/*
+#knowledge_base/*
 
 llm/*
 embedding/*

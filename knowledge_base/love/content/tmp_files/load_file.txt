@@ -1,0 +1,33 @@
+filepath=C:\Users\11043\Desktop\my_project\langchain_database\langchain-ChatGLM\knowledge_base\love\content\company.txt,len=1
+page_content='广州南沙城市更新投资发展有限公司找实习生，要求工程管理专业全日制且懂scrapy的基本操作。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\company.txt'}
+filepath=C:\Users\11043\Desktop\my_project\langchain_database\langchain-ChatGLM\knowledge_base\love\content\teachers.txt,len=2
+page_content='郭婧娟主要从事工程造价管理、工程与项目管理、房地产管理方面教学及科研工作，从事的本科和研究生课程教学包括：工程造价管理、工程管理实训、房地产估价、工程伦理、工程经济、项目管理案例分析等。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\teachers.txt'}
+page_content='研究方向：工程造价管理、房地产经济、工程与项目管理、项目评价、建筑节能减排。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\teachers.txt'}
+filepath=C:\Users\11043\Desktop\my_project\langchain_database\langchain-ChatGLM\knowledge_base\love\content\job.txt,len=1
+page_content='广州南沙城市更新投资发展有限公司找实习生，要求工程管理专业全日制且懂scrapy的基本操作。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\job.txt'}
+filepath=C:\Users\11043\Desktop\my_project\langchain_database\langchain-ChatGLM\knowledge_base\love\content\person.txt,len=4
+page_content='学号：125632，姓名：宁**，公司：中国联通集团河北省通信有限公司保定市分公司。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\person.txt'}
+page_content='学号：125633，姓名：刁**，公司：中电投工程研究检测评定中心有限公司。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\person.txt'}
+page_content='学号：21125634，姓名：王**，公司：黑龙江交通发展股份有限公司。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\person.txt'}
+page_content='学号：21125635，姓名：李**，公司：中建科技有限公司华东分公司。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\person.txt'}
+filepath=C:\Users\11043\Desktop\my_project\langchain_database\langchain-ChatGLM\knowledge_base\love\content\teachers.txt,len=2
+page_content='郭婧娟主要从事工程造价管理、工程与项目管理、房地产管理方面教学及科研工作，从事的本科和研究生课程教学包括：工程造价管理、工程管理实训、房地产估价、工程伦理、工程经济、项目管理案例分析等。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\teachers.txt'}
+page_content='研究方向：工程造价管理、房地产经济、工程与项目管理、项目评价、建筑节能减排。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\teachers.txt'}
+filepath=C:\Users\11043\Desktop\my_project\langchain_database\langchain-ChatGLM\knowledge_base\love\content\job.txt,len=1
+page_content='广州南沙城市更新投资发展有限公司找实习生，要求工程管理专业全日制且懂scrapy的基本操作。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\job.txt'}
+filepath=C:\Users\11043\Desktop\my_project\langchain_database\langchain-ChatGLM\knowledge_base\love\content\person.txt,len=4
+page_content='学号：125632，姓名：宁**，公司：中国联通集团河北省通信有限公司保定市分公司。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\person.txt'}
+page_content='学号：125633，姓名：刁**，公司：中电投工程研究检测评定中心有限公司。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\person.txt'}
+page_content='学号：21125634，姓名：王**，公司：黑龙江交通发展股份有限公司。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\person.txt'}
+page_content='学号：21125635，姓名：李**，公司：中建科技有限公司华东分公司。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\person.txt'}
+filepath=C:\Users\11043\Desktop\my_project\langchain_database\langchain-ChatGLM\knowledge_base\love\content\teachers.txt,len=2
+page_content='郭婧娟主要从事工程造价管理、工程与项目管理、房地产管理方面教学及科研工作，从事的本科和研究生课程教学包括：工程造价管理、工程管理实训、房地产估价、工程伦理、工程经济、项目管理案例分析等。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\teachers.txt'}
+page_content='研究方向：工程造价管理、房地产经济、工程与项目管理、项目评价、建筑节能减排。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\teachers.txt'}
+filepath=C:\Users\11043\Desktop\my_project\langchain_database\langchain-ChatGLM\knowledge_base\love\content\teachers.txt,len=2
+page_content='郭婧娟主要从事工程造价管理、工程与项目管理、房地产管理方面教学及科研工作，从事的本科和研究生课程教学包括：工程造价管理、工程管理实训、房地产估价、工程伦理、工程经济、项目管理案例分析等。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\teachers.txt'}
+page_content='研究方向：工程造价管理、房地产经济、工程与项目管理、项目评价、建筑节能减排。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\teachers.txt'}
+filepath=C:\Users\11043\Desktop\my_project\langchain_database\langchain-ChatGLM\knowledge_base\love\content\person.txt,len=4
+page_content='学号：125632，姓名：宁**的公司是中国联通集团河北省通信有限公司保定市分公司。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\person.txt'}
+page_content='学号：125633，姓名：刁**的公司是中电投工程研究检测评定中心有限公司。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\person.txt'}
+page_content='学号：21125634，姓名：王**的公司是黑龙江交通发展股份有限公司。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\person.txt'}
+page_content='学号：21125635，姓名：李**的公司是中建科技有限公司华东分公司。' metadata={'source': 'C:\\Users\\11043\\Desktop\\my_project\\langchain_database\\langchain-ChatGLM\\knowledge_base\\love\\content\\person.txt'}
