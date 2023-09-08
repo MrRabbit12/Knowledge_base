@@ -15,7 +15,7 @@ api = ApiRequest(base_url="http://127.0.0.1:7861", no_remote_api=False)
 
 if __name__ == "__main__":
     st.set_page_config(
-        "Langchain-Chatchat WebUI",
+        "BJTU_MEM WebUI",
         os.path.join("img", "chatchat_icon_blue_square_v2.png"),
         initial_sidebar_state="expanded",
     )
